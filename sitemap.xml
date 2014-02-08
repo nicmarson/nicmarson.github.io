@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/jekyll/update/2014/02/07/welcome-to-jekyll.html</loc>
-    <lastmod>2014-02-07</lastmod>
-
-  </url>
-  <url>
-    <loc>/jekyll/update/2014/02/07/yo-jekyllrb.html</loc>
-    <lastmod>2014-02-07</lastmod>
-
-  </url>
-  <url>
     <loc>/blog/bootstrap/2014/01/31/welcome-to-jekyll.html</loc>
     <lastmod>2014-01-31</lastmod>
 
